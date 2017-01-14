@@ -1,0 +1,397 @@
+.container-fluid {
+	width: 100%;
+	height: auto;
+}
+
+.container {
+	margin: 0 auto;
+	width: 1160px;
+	height: auto;
+}
+
+.pull-left {
+	float: left;
+}
+
+.pull-right {
+	float: right;
+}
+
+.text-center {
+	text-align: center;
+}
+
+.text-white {
+	color: white;
+}
+
+.fix {
+	overflow: hidden;
+}
+
+.topbar_wrapper {
+}
+
+.topbar {
+}
+
+.contact {
+	font-size: 12px;
+	font-family: m300;
+}
+
+.phone {
+	margin-right: 5px;
+}
+
+.phone > p {
+}
+
+.phone > p > img {
+	width: 6px;
+	margin-top: 4px;
+}
+ .top_menu {
+	 padding-top: 15px;
+ }
+ 
+ .top_menu > ul {
+	 list-style: none;
+	 margin: 0;
+	 padding: 0;
+}
+  
+.top_menu > ul > li {
+	display: inline-block;
+	margin-left: 20px;
+}
+
+.top_menu > ul > li >a {
+	display: block;
+	text-decoration: none;
+	color: #333;
+	font-family: m300;
+	font-size: 14px;
+}
+
+.top_menu > ul > li > a:hover {
+	color: #666;
+}
+
+.email {
+}
+
+.email > p {
+	font-size: 13px;
+	margin-top: 10px;
+}
+
+.email > p > img {
+	width: 13px;
+}
+
+.email {
+}
+
+.header_wrapper {
+	background: #f5f6f1;
+	padding: 40px 0;
+	margin-bottom: 40px;
+}
+
+.header {
+}
+
+.logo {
+	
+	margin-right: 195px;
+}
+
+.logo_text {
+
+}
+
+.logo_text  > h1 {
+	font-family: "Oswald", sans-serif;
+	color: #463f3a;
+	font-size: 34px;
+	margin: 0;
+	font-weight: border;
+}
+
+.logo_text > p {
+	font-size: 9px;
+	font-weight: 600;
+	font-family: m300;
+	margin: 0;
+	padding: 0;
+}
+
+.logo_icon {
+	padding-top: 7px;
+	padding-left: 10px;
+}
+
+.navigation {
+	padding-top: 20px;
+}
+
+.navigation > ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+.navigation > ul > li {
+	display: inline-block;
+	margin-left: 10px;
+}
+
+.navigation > ul > li > a {
+	display: block;
+	color: #444;
+	text-decoration: none;
+	font-family: m500;
+}
+
+.navigation > ul > li :hover{
+	color: #666;
+}
+
+.slash {
+	color: #e65753;
+	font-weight: bold;
+}
+
+.cart {
+	padding-top: 5px;
+}
+
+.cart_text {
+	margin-right: 15px;
+}
+
+.cart_text > p {
+	margin: 0;
+	font-family: m300;
+	color: #333;
+}
+
+.cart_text  > h4 {
+	margin: 0;
+	color: #222;
+}
+
+.cart_icon {
+}
+
+.cart_icon > img {
+	width: 45px;
+	padding-top: 2px;
+}
+
+
+.slider_wrapper {
+	margin-bottom: 30px;
+}
+
+.slider {
+}
+
+.slider_back {
+	position: relative;
+}
+
+.slider_back > img {
+	width: 100%;
+}
+
+.slider_text {
+	position: absolute;
+	top: 80px;
+	left: 100px;
+}
+
+.slider_text > ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+.slider_text > ul > li > a {
+	display: block;
+	color: white;
+	text-decoration: none;
+	font-family: "Oswald", sans-serif;
+	font-size: 61px;
+	font-weight: bold;
+}
+
+.slider_image {
+	position: absolute;
+	top: 190px;
+	right: 0;
+}
+
+.slider_image > img {
+	width: 450px;
+}
+
+.services_wrapper {
+	padding-bottom: 30px;
+}
+
+.services{
+}
+
+.service {
+	background: #f5f6f1;
+	margin-right: 30px;
+	padding: 20px;
+	width: 326px;
+	text-align: center;
+}
+
+.service:last-child {
+	background: #f5f6f1;
+	margin-right: 0px;
+	padding: 20px;
+	width: 326px;
+	text-align: center;
+}
+
+.service > h1{
+	color: #463f3a;
+	font-family: "Oswald", sans-serif;
+	margin: 0;
+}
+
+.service > p {
+	font-family: m300;
+	color: #463f3a;
+	margin: 0;
+}
+
+.service > p > a {
+	font-family: m500;
+	color: #f55856;
+	margin: 0;
+	text-decoration: none;
+}
+	
+.portfolio_one_wrapper {
+	background: #f8f8f8;
+	border-top: 1px solid #eee;
+	border-bottom: 1px solid #eee;	
+}
+
+.portfolio_one {
+	background: #f8f8f8;
+	padding: 50px 0;
+}
+
+.heading_one {
+	position: relative;
+	background: url("../images/up_line.png");
+	margin-bottom: 10px;
+	line-height: 3px;
+}
+
+.heading_one > h1 {
+	font-family: "Oswald", sans-serif;
+	position: absolute;
+	left: 429px;
+	top: -25px;
+	color: #463f3a;
+	width: 295px;
+	height: 30px;
+	background: #f8f8f8;
+	padding: 5px;
+}
+
+.one_wrapper {
+	padding: 50px 0px 50px 0px;
+	margin-right: 60px;
+	width: 310px;
+}
+
+.one {
+}
+
+.portfolio_two_wrapper {
+}
+
+.portfolio_two {
+}
+
+.heading_two {
+}
+
+.two_wrapper {
+}
+
+.two {
+}
+
+.portfolio_three_wrapper {
+}
+
+.portfolio_three {
+}
+
+.heading_three {
+}
+
+.three_wrapper {
+}
+
+.three {
+}
+
+.blog_wrapper {
+}
+
+.blog {
+}
+
+.four_wrapper {
+}
+
+.four {
+}
+
+.footer_top_wrapper {
+}
+
+.footer_top {
+}
+
+.footer_middle_wrapper {
+}
+
+.footer_middle {
+}
+
+.f_logo {
+}
+
+.f_logo_text {
+}
+
+.f_navigation {
+}
+
+.top_icon {
+}
+
+.footer_bottom_wrapper {
+}
+
+.footer_bottom {
+}
+
+.social {
+}
+
+.copyright {
+}
